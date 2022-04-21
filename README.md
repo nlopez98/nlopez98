@@ -1,5 +1,7 @@
 ### Hi there 👋
+I go by Trent and Johnathan. I am an NUS Computational Biology student. I work best at the intersection of Biology or Biology-adjacent topics, fueled by Mathematical and Computational approaches.
 
+[![NLopez98's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlopez98)](https://github.com/nlopez98/github-readme-stats)
 <!--
 **nlopez98/nlopez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
