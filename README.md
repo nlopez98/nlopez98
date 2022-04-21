@@ -1,5 +1,8 @@
 ### Hi there 👋
 I go by Trent and Johnathan. I am an NUS Computational Biology student. I work best at the intersection of Biology or Biology-adjacent topics, fueled by Mathematical and Computational approaches.
+- 👯 I’m looking to collaborate on anything computational on anything bio-adjacent!
+- 🤔 I’m looking for help with Javascript
+- 💬 Ask me about anything Biology or Mathematics
 
 [![NLopez98's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlopez98)](https://github.com/nlopez98/github-readme-stats)
 <!--
